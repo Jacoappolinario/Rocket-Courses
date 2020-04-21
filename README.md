@@ -8,8 +8,8 @@ Site baseado na plataforma de ensino da Rocketseat.
 
 ## 🚩Pré Requisitos
 
-- Git (https://git-scm.com/)
-- Node (https://nodejs.org)
+- [Git](https://git-scm.com/)
+- [Node](https://nodejs.org)
 
 ----
 
