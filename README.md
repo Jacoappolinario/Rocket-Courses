@@ -1,14 +1,19 @@
 # Rocket Courses
 
+## 📝Sobre
+
 Site baseado na plataforma de ensino da Rocketseat.
 
+----
 
-### Pré Requisitos
+## 🚩Pré Requisitos
 
 - Git (https://git-scm.com/)
 - Node (https://nodejs.org)
 
-### Instalação
+----
+
+## 📂Instalação
 
 ```bash
 # Clone este repositório
@@ -24,7 +29,9 @@ $ npm install
 $ npm start
 ```
 
-## Tecnologias
+----
+
+## 🚀Tecnologias
 
 - NodeJs
 - Express
@@ -34,11 +41,15 @@ $ npm start
 - CSS
 - JS
 
-## Autor
+----
+
+## 👨🏾‍💻Autor
 * **Jacó Apolinário** - [Linkedin](https://www.linkedin.com/in/jacoapolinario/)
 
 
-## License
+----
+
+## 🧾License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
